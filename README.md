@@ -61,5 +61,5 @@ AGENTS.md                 shared instructions (CLAUDE.md and GEMINI.md import it
 ---
 
 Made by **Kris**: AI automations you can use today.
-YouTube **[Content Auto Lab](https://www.youtube.com/@ContentAutoLab)** · Instagram **[@aipractically](https://www.instagram.com/aipractically/)** · also by me: [zero-dollar-seo](https://github.com/krisuuu2/zero-dollar-seo).
+YouTube **[Kris | AI, Practically](https://www.youtube.com/@aipracticallykris)** · Instagram **[@aipractically](https://www.instagram.com/aipractically/)** · also by me: [zero-dollar-seo](https://github.com/krisuuu2/zero-dollar-seo).
 Not affiliated with Remotion, HeyGen or Anthropic. MIT licensed.
